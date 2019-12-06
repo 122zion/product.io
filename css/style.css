@@ -23,3 +23,31 @@ h3{
 .align{
   align="center"
 }
+img{
+  display: block;
+  margin-left: auto;
+margin-right: auto;
+width: 50%
+}
+body{
+  background-color: #37323E;
+}
+table{
+  border: 5px;
+}
+th{
+  font-size: 30px;
+  font-family:'Calistoga', cursive;
+}
+a {
+  color: orange;
+}
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: #F2545B;
+}
+a:active, a:focus {
+  color: teal;
+}
